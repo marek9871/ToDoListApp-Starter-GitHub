@@ -15,6 +15,7 @@
 		E1A2C09021AEFBDB0091E41F /* ToDoDetailsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A2C08F21AEFBDB0091E41F /* ToDoDetailsViewController.swift */; };
 		E1A2C09221AF01770091E41F /* ToDoItemModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A2C09121AF01770091E41F /* ToDoItemModel.swift */; };
 		E1A2C09421AF07410091E41F /* AddTaskViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E1A2C09321AF07410091E41F /* AddTaskViewController.swift */; };
+		F587B59C26A0B4C000F9C41D /* LoginViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F587B59B26A0B4C000F9C41D /* LoginViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		E1A2C08F21AEFBDB0091E41F /* ToDoDetailsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoDetailsViewController.swift; sourceTree = "<group>"; };
 		E1A2C09121AF01770091E41F /* ToDoItemModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ToDoItemModel.swift; sourceTree = "<group>"; };
 		E1A2C09321AF07410091E41F /* AddTaskViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddTaskViewController.swift; sourceTree = "<group>"; };
+		F587B59B26A0B4C000F9C41D /* LoginViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LoginViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -69,6 +71,7 @@
 				E1A2C08221AEF81B0091E41F /* Assets.xcassets */,
 				E1A2C08421AEF81B0091E41F /* LaunchScreen.storyboard */,
 				E1A2C08721AEF81B0091E41F /* Info.plist */,
+				F587B59B26A0B4C000F9C41D /* LoginViewController.swift */,
 			);
 			path = ToDoList;
 			sourceTree = "<group>";
@@ -145,6 +148,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F587B59C26A0B4C000F9C41D /* LoginViewController.swift in Sources */,
 				E1A2C09221AF01770091E41F /* ToDoItemModel.swift in Sources */,
 				E1A2C09021AEFBDB0091E41F /* ToDoDetailsViewController.swift in Sources */,
 				E1A2C08E21AEFBA00091E41F /* ToDoListViewController.swift in Sources */,
